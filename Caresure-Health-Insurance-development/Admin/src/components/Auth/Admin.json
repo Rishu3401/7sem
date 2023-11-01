@@ -1,0 +1,17 @@
+[
+  {
+    "firstname": "Ashutosh",
+    "lastname": "kumar",
+    "username": "Ashutosh",
+    "password": "kumarpal",
+    "email": "Ashutosh@example.com",
+    "age": 22,
+    "gender": "Male",
+    "DOB": "2001-07-31",
+    "phonenumber": "+911234567890",
+    "address": "uttar pradesh, India",
+    "role": "admin",
+    "active": true
+  }
+
+]
